@@ -11,6 +11,10 @@ While usable, the project is still early-stage and under active development.
 
 ## 🎯 Goals (Planned)
 
+- **Input System** — Keyboard input handling via SFML
+- **Entity Manager** — Basic entity creation, storage, and lifecycle management
+- **Rendering & Window Management** — Window creation, event processing, and 2D rendering
+
 The long-term goal of ESC Game Engine is to provide:
 
 * A lightweight 2D game engine
