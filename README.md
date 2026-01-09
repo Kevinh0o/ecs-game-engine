@@ -67,18 +67,6 @@ The engine is currently **functional** and depends on an **older version of SFML
 
 ---
 
-## 📁 Project Layout (Simplified)
-
-ESC-Game-Engine/
-├── CMakeLists.txt
-├── src/
-├── include/
-├── external/
-│ └── SFML/
-├── build/ (generated)
-
----
-
 ## 🧱 How to build
 
 Running the engine with releasse target in visual studio
